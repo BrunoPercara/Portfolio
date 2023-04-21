@@ -27,7 +27,12 @@
     text-align: center;
     flex-direction: column;
     color: white;
-
+}
+.sobre_mi {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
 
 }
 i {
