@@ -1,13 +1,10 @@
 * {
     background-color: black;
-    display: grid;
-    grid-column: 2;
 }
 .navegacion {
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
-
 }
 .lista_navegacion {
     display: flex;
@@ -19,8 +16,6 @@
     text-align: left;
     text-decoration: none;
     list-style: none;
-
-
 }
 .home{
     display: flex;
@@ -49,7 +44,6 @@ align-items: center;
     text-justify: auto;
     size: 20px;
     color: white;
-
 }
 i {
     color: white;
