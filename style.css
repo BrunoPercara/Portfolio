@@ -1,6 +1,12 @@
 * {
     background-color: black;
 }
+.navegacion {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    
+}
 .lista_navegacion {
     display: flex;
     align-items: center;
