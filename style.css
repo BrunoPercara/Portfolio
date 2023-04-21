@@ -38,6 +38,8 @@ align-items: center;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    text-justify: auto;
+    size: 20px;
 }
 i {
     color: white;
