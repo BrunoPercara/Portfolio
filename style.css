@@ -10,6 +10,13 @@
     text-align: left;
 
 }
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
 i {
     color: white;
 }
