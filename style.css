@@ -1,12 +1,15 @@
 * {
     display: flex;
     background-color: black;
-    justify-content: center;
 }
 .lista_navegacion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-decoration: none;
     color: white;
     text-align: left;
+
 }
 i {
     color: white;
