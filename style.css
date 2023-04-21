@@ -1,5 +1,7 @@
 * {
     background-color: black;
+    display: grid;
+    grid-column: 2;
 }
 .navegacion {
     display: flex;
