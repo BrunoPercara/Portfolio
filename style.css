@@ -40,6 +40,8 @@ align-items: center;
     justify-content: center;
     text-justify: auto;
     size: 20px;
+    color: white;
+    
 }
 i {
     color: white;
