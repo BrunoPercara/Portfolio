@@ -1,3 +1,8 @@
 * {
     background-color: black;
 }
+.lista_navegacion {
+    text-decoration: none;
+    color: white;
+    text-align: left;
+}
