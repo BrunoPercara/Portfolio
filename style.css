@@ -34,6 +34,12 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 }
+.titulo_descripcion {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
 .descripcion {
     display: flex;
     flex-wrap: wrap;
@@ -41,7 +47,7 @@ align-items: center;
     text-justify: auto;
     size: 20px;
     color: white;
-    
+
 }
 i {
     color: white;
