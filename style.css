@@ -6,8 +6,10 @@
     align-items: center;
     justify-content: center;
     text-decoration-color: white;
-    text-color: white;
+    color: white;
     text-align: left;
+    text-decoration: none;
+
 
 }
 .home{
@@ -16,7 +18,8 @@
     align-items: center;
     text-align: center;
     flex-direction: column;
-    
+    color: white;
+
 
 }
 i {
