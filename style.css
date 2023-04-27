@@ -139,7 +139,7 @@ input.email {
     background: white;
     width: 350px;
 }
-input.mensaje {
+.mensaje {
     border-radius: 2px;
     background: white;
     width: 350px;
