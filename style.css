@@ -131,17 +131,17 @@ padding: 5rem;
 }
 input.name {
     border-radius: 2px;
-    background: lightgrey;
+    background: white;
     width: 350px;
 }
 input.email {
     border-radius: 2px;
-    background: lightgrey;
+    background: white;
     width: 350px;
 }
 input.mensaje {
     border-radius: 2px;
-    background: lightgrey;
+    background: white;
     width: 350px;
     height: 150px;
 }
