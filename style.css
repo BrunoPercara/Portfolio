@@ -165,7 +165,7 @@ i.bi.bi-send:hover {
 }
 footer {
     display: flex;
-    color: white;
+    color: lightgray;
     justify-content: center;
     align-items: center;
     padding: 3rem;
